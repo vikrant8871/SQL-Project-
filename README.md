@@ -1,5 +1,10 @@
-# SQL-Problems
- 
+# SQL-Project
+
+
+
+
+ ![sss](https://user-images.githubusercontent.com/123053722/229270841-7d0ad26a-5de0-4162-abe4-ee3ea51658d8.JPG)
+
 SQL is a powerful programming language used to manage and manipulate data in relational databases. SQL queries allow you to extract data from tables, join tables, filter data based on conditions, and aggregate data into meaningful summaries. Here are the top 45 SQL queries that will help you master the language and become a skilled SQL developer.
 
 SELECT: The SELECT statement is the most basic SQL query that retrieves data from one or more tables.
@@ -17,6 +22,14 @@ HAVING: The HAVING clause filters the data based on aggregate function results.
 DISTINCT: The DISTINCT keyword removes duplicate rows from the result set.
 
 JOIN: The JOIN keyword combines data from two or more tables based on a common column.
+# Data set
+We have created three tables and solved 45 most importent queries using thoes tables.
+
+1. Worker table.
+2. Bonus Table.
+3. Title table.
+
+![s1](https://user-images.githubusercontent.com/123053722/229270994-52a28a66-cafd-47dd-ac34-f29efeff9d19.JPG)
 
 # Importance of Knowing SQL queries.
 Knowing SQL queries and their functions is essential for anyone working with relational databases or data-driven applications. Here are some reasons why:
